@@ -1,4 +1,4 @@
-# spring-gift-product
+# spring-gift-service
 ### Step 1. 상품 API
 - GET 요청을 통한 **정보 조회 기능** 구현
 - 필요한 사항
@@ -27,7 +27,7 @@
   2. 데이터베이스는 h2를 사용
   3. Create -> INSERT / Update -> UPDATE 등, 매칭되는 DB 쿼리문을 사용
 
-# spring-gift-wishlist
+- - -
 ### Step 0. 기본 코드 준비
 - 기존에 PR로 피드백 받은 부분에 대한 코드로 프로젝트 초기화
 
@@ -60,7 +60,7 @@
   3. 회원 별 위시 리스트를 구현하기 위해 DB 테이블 및 DTO, Domain, Repository, Service, Controller 클래스 구현
   4. 회원 별로 위시 리스트를 보여주는 View page 구현
 
-# spring-gift-jpa
+- - -
 ### step 0. 기본 코드 준비
 - 새로운 리포지토리를 fork 해와 이전 코드를 붙여 넣기
 
